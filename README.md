@@ -40,13 +40,10 @@ Sample Schema for Ball-by-Ball Data:
 
 ## 🔥 Key Features
 **Data Processing**
-Schema enforcement for data quality
-
-Handling missing values and data cleaning
-
-Derived columns (e.g., high_impact balls, win_category_margin)
-
-Date/time transformations and optimizations for large datasets
+- **Schema enforcement for data quality**
+- **Handling missing values and data cleaning**
+- **Derived columns (e.g., high_impact balls, win_category_margin)**
+- **Date/time transformations and optimizations for large datasets**
 
 ## **Analytical Queries**
 Top batsmen per season
@@ -70,17 +67,17 @@ Distribution of Scores by Venue
 
 Team Performance After Winning Toss
 
-
 ## 📊 Key Insights
+Impact of Toss: Teams winning the toss and choosing to bat first win 65% of matches
+![toss_impact_pd](https://github.com/user-attachments/assets/6981ceed-2be6-469c-b209-44e5e1053bc9)
 Teams winning the toss win 58% of matches
-Visualization Charts/Team-perfomance-after-toss.png
-
+![Team-perfomance-after-toss](https://github.com/user-attachments/assets/5fe58860-b1d5-410b-a588-5b4cf8ef6edc)
 Average powerplay score increased by 22% from 2010-2020
-
+![average_runs_pd](https://github.com/user-attachments/assets/f17e7745-f7f3-4cc0-965a-f17bc3bf6a1c)
 Right-handed batsmen contribute 63% of total runs
 
 Wankhede Stadium has the highest average score (189 runs)
-
+![scores_by_venue_pd](https://github.com/user-attachments/assets/7916a270-8e73-4b2e-95a3-767d97707945)
 Top 3 Economical Bowlers in Powerplay Overs: Bowler A, Bowler B, Bowler C
+![economical_bowlers_pd](https://github.com/user-attachments/assets/bfd84579-d84c-4264-a237-1d716629182a)
 
-Impact of Toss: Teams winning the toss and choosing to bat first win 65% of matches
