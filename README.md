@@ -38,7 +38,7 @@ The dataset, sourced from **Sportskeeda**, includes:
 Sample Schema for Ball-by-Ball Data:
 
 
-🔥 Key Features
+## 🔥 Key Features
 **Data Processing**
 Schema enforcement for data quality
 
@@ -48,7 +48,7 @@ Derived columns (e.g., high_impact balls, win_category_margin)
 
 Date/time transformations and optimizations for large datasets
 
-**Analytical Queries**
+## **Analytical Queries**
 Top batsmen per season
 
 Economical bowlers in powerplay overs
@@ -59,7 +59,7 @@ Average runs scored by batsmen in winning matches
 
 Team performance after winning toss
 
-**Visualizations**
+## **Visualizations**
 Most Economical Bowlers in Powerplay Overs
 
 Impact of Winning Toss on Match Outcomes
@@ -71,8 +71,9 @@ Distribution of Scores by Venue
 Team Performance After Winning Toss
 
 
-📊 Key Insights
+## 📊 Key Insights
 Teams winning the toss win 58% of matches
+Visualization Charts/Team-perfomance-after-toss.png
 
 Average powerplay score increased by 22% from 2010-2020
 
